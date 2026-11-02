@@ -119,7 +119,7 @@ El repositorio contiene los archivos necesarios para ejecutar el sistema:
 
 Se realizó un video corto en el que se muestra el funcionamiento general del programa, sus módulos principales y el objetivo del sistema.
 
-Enlace del video:
+Enlace del video: https://youtu.be/1Ztn_eTYnhM?si=5zcIL3tAuJN6Grwr
 
 ## Integrantes del proyecto
 
